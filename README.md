@@ -2,7 +2,7 @@
 
 ![Página-inicio-PokeChoose](image_readme/PokeChoose.png)
 
-## ¿Qué es PokeChoose? 
+## ¿Qué es [PokeChoose](https://faog.github.io/SCL008-data-lovers/src/index.html)? 
 
 Nace como una aplicación web que busca simular una enciclopedia virtual. [PokeChoose](https://faog.github.io/SCL008-data-lovers/src/index.html)  agrupa información de los Pokémon y  le permite al usuario adentrarse en su mundo para conocer en detalle a cada uno de la Región de Kanto.  
 
