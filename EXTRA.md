@@ -12,7 +12,7 @@ Puedes encontrar **aquí** el [`README`](https://github.com/ConsUrbinaM/SCL008-d
 
 La segunda propuesta de [PokeChoose](https://faog.github.io/SCL008-data-lovers/src/index.html) surge por la inquietud de mejorar la usabilidad de esta aplicación, esta vez en un formato _responsivo_, creando un **nuevo prototipo de alta fidelidad** para  realizar nuevos testeos  que mejoren la experiencia de usuario del formato anterior.  
 
-Para llevar a cabo este desafío, se tuvo  como consideración los principios del diseño visual, y la evaluación heurística de la primera iteración del proyecto. A partir de ello  la reconstrucción de la aplicación según los intereses de un usuario **específico** y **real** con un user persona, incluyendo la identificación de colores por medio de  psicología del color, y la búsqueda de referentes de diseño visual a partir de otras aplicaciones web.
+Para llevar a cabo este desafío, se tuvo  como consideración los principios del diseño visual y la evaluación heurística de la primera iteración del proyecto. A partir de ello se realizó la reconstrucción de la aplicación, según los intereses de un usuario **específico** y **real** con un User Persona, incluyendo la identificación de colores por medio de  psicología del color, y la búsqueda de referentes de diseño visual a partir de otras aplicaciones web.
 
 ### 📹 Principios del diseño visual 
 
@@ -76,8 +76,8 @@ Puedes ver **aquí** la [Evaluación Heurística](https://drive.google.com/file/
 En la primera iteración se realizó una [encuesta](https://docs.google.com/forms/d/1tS5dteTqStz4BMEkpbQ3pghEVAidVwr08N6nTFHm-xY/edit) que obtuvo el alcance del público objetivo a **nivel general** (rango de edad y elementos de interés sobre Pokémon); en esta segunda iteración se consideran los siguientes elementos para construir el **User Persona** y optimizar el uso de la página: 
 
 * Saber cuáles son sus características, intereses, y gustos
-* Como define su personalidad, en cuanto a objetivos y metas. 
-* Cuales son sus aplicaciones favoritas y que espera de ellas. 
+* Cómo define su personalidad, en cuanto a objetivos y metas. 
+* Cuáles son sus aplicaciones favoritas y que espera de ellas. 
 
 ![User Persona](image_readme/user_persona_erik.png)
 
@@ -98,9 +98,9 @@ La idea fué fusionar ambos colores con el fin de lograr uno más parecido al qu
 
 **Colores de contraste**
 
-3.	Gris: paz tenacidad
+3.	Gris: entrega paz  y tenacidad.
 
-4.	Blanco: simpleza
+4.	Blanco: simpleza absoluta. 
 
 Los colores de contraste fueron utilizados para resaltar textos y botones dentro de los colores base:
 
@@ -108,7 +108,7 @@ Los colores de contraste fueron utilizados para resaltar textos y botones dentro
 
 ### ⌨️ Inspiración de distintas páginas 
 
-Se rescataron diferentes elementos de páginas (en formato responsivo) para la recreación de la aplicación responsiva de PokeChoose. En este caso sirvió la identificación de colores, distribución del espacio y uso menú y tarjetas. 
+Se rescataron diferentes elementos de páginas (en formato responsivo) para la recreación de la aplicación responsiva de PokeChoose. En este caso sirvió la identificación de colores, distribución del espacio, uso del menú y tarjetas. 
 
 1.	[Pokemon Go](https://www.pokemongo.com/es-es/) 
 2.	[Detective Pikachu](http://www.detectivepikachumovie.net/)
